@@ -23,5 +23,7 @@ void free_listint(listint_t *head);
 
 listint_t *insert_node(listint_t **head, int number);
 def remove_char_at(str, n):
+def remove_char_at(str, n):
+def magic_calculation(a, b, c):
 #endif /* LISTS_H */
 
